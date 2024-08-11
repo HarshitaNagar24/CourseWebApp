@@ -1,0 +1,130 @@
+[
+    {
+       "id":1,
+       "name":"Mern Stack",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":2,
+       "name":"Artificial Intelligence",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"1000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":3,
+       "name":"Software Engineering",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"200",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":4,
+       "name":"Data Structure",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"2500",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":5,
+       "name":"Computer Architecture",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":6,
+       "name":"Data Science",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"10000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":7,
+       "name":"Digital Marketing",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":8,
+       "name":"Internet of Things",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"5000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":9,
+       "name":"Cyber Security",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"9000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":10,
+       "name":"Machine Learning",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"12000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":11,
+       "name":"Database Management System",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":12,
+       "name":"Basic HTML CSS Javascript",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":13,
+       "name":"Devops",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"150000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":14,
+       "name":"Linux",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":15,
+       "name":"Operating System",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"00",
+       "category":"Free",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    },
+    {
+       "id":16,
+       "name":"Big Data Analytics",
+       "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quo deleniti non veniam sapiente, natus, temporibus rem provident",
+       "price":"10000",
+       "category":"Paid",
+       "image":"https://www.logicraysacademy.com/blog/wp-content/uploads/2023/05/MVM1-1.png"
+    }
+]
